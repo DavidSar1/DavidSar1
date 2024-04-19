@@ -1,8 +1,4 @@
-
-## Juan David Garzón
-
-### Estudiante de Desarrollo de Software  
-### Universidad del Valle  
+ 
 
 ---
 
