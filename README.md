@@ -2,7 +2,7 @@
 <h1>Juan David Garzón</h1>
 <p>Aprendiendo endo</p>
 
-.programacion {
+programacion {
   font-family: Arial, sans-serif;
   font-size: 32px;
   font-weight: bold;
