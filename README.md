@@ -1,6 +1,6 @@
  
 <h1>Juan David Garzón🇨🇴</h1>
-<p>Conocimientos :</p>
+<h2>Conocimientos :</h2>
 <ol>
 
    <li>Html</li>
