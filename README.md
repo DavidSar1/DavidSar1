@@ -1,5 +1,5 @@
  
-<h1>Juan David Garzón🇨🇴</h1>
+<h1>Juan David Garzón</h1>
 <h2>Conocimientos básicos en :</h2>
 <ol>
 
